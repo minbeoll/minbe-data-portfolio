@@ -1,0 +1,7 @@
+A column — Contains the list of currently registered companies in the KOSPI stock market.
+
+VP column — Represents raw data from October 24, which includes companies I plan to register in my stock tracking material.
+
+GN column — Using Excel formulas, I compared the A column with the VP column and extracted the distinct companies into this column.
+
+This allows me to track the flow of stock values, especially observing when certain stocks gradually increase in price.

@@ -1,0 +1,4 @@
+This project generates a refined dataset that identifies companies appearing repeatedly in the VP column and lists them distinctly in the GN column using advanced Excel formatting logic.
+After consulting ChatGPT, I developed and optimized the code for maximum speed and stability.
+Through multiple iterations and tests, I successfully achieved the intended outcome.
+The code below represents the final working version.

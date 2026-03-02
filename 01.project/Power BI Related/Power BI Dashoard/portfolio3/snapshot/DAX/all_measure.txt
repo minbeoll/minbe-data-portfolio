@@ -1,0 +1,302 @@
+Total Revenue =
+
+SUM ( 'order_items'[price])
+
+Total Orders =
+
+DISTINCTCOUNT(order_items[order_id])
+
+
+Total Customers =
+
+DISTINCTCOUNT(order_items[order_id])
+
+
+Total Sellers =
+
+DISTINCTCOUNT ( order_items[seller_id] )
+
+Avg Order Value =
+
+DIVIDE ( [Total Revenue], [Total Orders] )
+
+Revenue per Customer =
+
+DIVIDE ( [Total Revenue], [Total Customers] )
+
+Average Review Score =
+
+    AVERAGE ( order_reviews[review_score] )
+
+
+
+On-time Orders =
+
+CALCULATE (
+    DISTINCTCOUNT ( orders[order_id] ),
+    FILTER (
+        orders,
+        orders[order_delivered_customer_date]
+            <= orders[order_estimated_delivery_date]
+    )
+)
+
+Review Score =
+
+COUNTROWS('order_reviews')
+
+count of review_id =
+count('order_reviews'[review_id])
+
+Repeat Customer Rate =
+
+VAR RepeatCount =
+    CALCULATETABLE(
+        VALUES('customers'[customer_unique_id]),
+        FILTER(
+            ADDCOLUMNS(
+                VALUES('customers'[customer_unique_id]),
+                "OrderCount", CALCULATE(COUNTROWS('orders'))
+            ),
+            [OrderCount] >= 2
+        )
+    )
+VAR TotalCount = CALCULATE(DISTINCTCOUNT('customers'[customer_unique_id]))
+RETURN
+    DIVIDE(COUNTROWS(RepeatCount), TotalCount)
+
+Revenue by State =
+
+SUM('order_items'[price])
+
+State Top5 =
+
+VAR RankState =
+    RANKX (
+        ALL ( customers[customer_state] ),
+        [Revenue by State],
+        ,
+        DESC
+    )
+RETURN
+IF ( RankState <= 5, "Top5", "Other" )
+
+
+Orders by City =
+
+CALCULATE(
+    DISTINCTCOUNT('orders'[order_id]),
+    ALLEXCEPT('customers', 'customers'[customer_city])
+)
+
+Customer LTV =
+
+CALCULATE(
+    [Total Revenue],
+    ALLEXCEPT('customers', 'customers'[customer_unique_id])
+)
+
+High Value Customer Flag =
+
+IF([Customer LTV] > 5000, "High", "Normal")
+
+On-Time Delivery Rate by State =
+
+CALCULATE(
+    [On-Time Delivery Rate],
+    VALUES('customers'[customer_state])
+)
+
+On-Time Delivery Rate =
+
+VAR Ontime =
+    CALCULATE(
+        COUNTROWS('orders'),
+        'orders'[order_status] = "delivered",
+        'orders'[order_delivered_customer_date] <= 'orders'[order_estimated_delivery_date]
+    )
+VAR Delivered =
+    CALCULATE(
+        COUNTROWS('orders'),
+        'orders'[order_status] = "delivered"
+    )
+RETURN
+    DIVIDE(Ontime, Delivered)
+
+Avg Review Score by State =
+
+CALCULATE(
+    AVERAGE('order_reviews'[review_score]),
+    VALUES('customers'[customer_state])
+)
+
+Customer Count by LTV Group =
+
+    DISTINCTCOUNT('customers'[customer_unique_id])
+
+
+Review Score Rank Top =
+
+RANKX(
+    ALL('customers'[customer_state]),
+    [Average Review Score],
+    ,
+    DESC,
+    DENSE
+)
+
+
+Review Score Rank Bottom =
+
+RANKX(
+    ALL('customers'[customer_state]),
+    [Average Review Score],
+    ,
+    ASC,
+    DENSE
+)
+
+
+Top Bottom 5 Flag =
+
+IF(
+    [Review Score Rank Top] <= 5
+    || [Review Score Rank Bottom] <= 5,
+    1,
+    0
+)
+
+
+Top State by Revenue(selected) =
+
+VAR T =
+    SUMMARIZE(
+        customers,
+        customers[customer_state],
+        "Rev", [Total Revenue]
+    )
+VAR Top1 =
+    TOPN(1, T, [Rev], DESC, customers[customer_state], ASC)
+RETURN
+    MAXX(Top1, customers[customer_state])
+
+
+Top State by Orders =
+
+VAR T =
+    SUMMARIZE(
+        customers,
+        customers[customer_state],
+        "Metric", [Total Orders]
+    )
+VAR Top1 =
+    TOPN(1, T, [Metric], DESC, customers[customer_state], ASC)
+RETURN
+    MAXX(Top1, customers[customer_state])
+
+
+Top State by Customers =
+
+VAR T =
+    SUMMARIZE(
+        customers,
+        customers[customer_state],
+        "Metric", [Total Customers]
+    )
+VAR Top1 =
+    TOPN(1, T, [Metric], DESC, customers[customer_state], ASC)
+RETURN
+    MAXX(Top1, customers[customer_state])
+
+
+Revenue MoM (%) =
+
+VAR PrevRevenue =
+    CALCULATE(
+        [Total Revenue],
+        DATEADD('Date'[Date], -1, MONTH)
+    )
+RETURN
+    DIVIDE([Total Revenue] - PrevRevenue, PrevRevenue)
+
+Selected Category Revenue % =
+
+DIVIDE(
+    [Total Revenue],
+    CALCULATE([Total Revenue], REMOVEFILTERS('products'))
+)
+
+Selected Review Score % =
+
+DIVIDE(
+    [count of review_id],
+    CALCULATE(COUNTROWS('order_reviews'), REMOVEFILTERS('order_reviews'[review_score]))
+)
+
+Selected Orders =
+
+DISTINCTCOUNT('orders'[order_id])
+
+Selected Customers =
+
+DISTINCTCOUNT('customers'[customer_unique_id])
+
+Avg Review Score (Selected) =
+
+AVERAGE('order_reviews'[review_score])
+
+Top Category (Selected) =
+
+CALCULATE(
+    SELECTEDVALUE('products'[product_category_name]),
+    TOPN(1, VALUES('products'[product_category_name]), [Total Revenue], DESC)
+)
+
+Top Review Score (Selected) =
+
+CALCULATE(
+    SELECTEDVALUE('order_reviews'[review_score]),
+    TOPN(1, VALUES('order_reviews'[review_score]), [count of review_id], DESC)
+)
+
+Monthly Revenue =
+
+SUM('order_items'[price])
+
+Monthly Orders =
+
+DISTINCTCOUNT('orders'[order_id])
+
+Monthly Customers =
+
+DISTINCTCOUNT('customers'[customer_unique_id])
+
+Monthly Sellers =
+
+CALCULATE(
+    DISTINCTCOUNT('order_items'[seller_id])
+)
+
+Revenue by Segment =
+SUM('order_items'[price])
+
+Category Revenue Share % =
+
+DIVIDE(
+    [Total Revenue],
+    CALCULATE(
+        [Total Revenue],
+        ALL('products'[product_category_name])
+    )
+)
+
+
+Summary Title =
+
+VAR sel_state = 
+    SELECTEDVALUE('customers'[customer_state], "All States")
+VAR sel_cat = 
+    SELECTEDVALUE('products'[product_category_name], "All Categories")
+RETURN
+    sel_state & " / " & sel_cat & " Main result "
+

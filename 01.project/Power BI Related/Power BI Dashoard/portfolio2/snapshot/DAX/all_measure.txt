@@ -1,0 +1,80 @@
+Total Revenue =
+
+SUM('FactSales'[Revenue])
+
+Total Profit =
+
+SUM('FactSales'[Profit])
+
+Total Orders =
+
+DISTINCTCOUNT('FactSales'[OrderID])
+
+Return Rate =
+
+VAR ReturnedOrders = 
+    CALCULATE(
+        DISTINCTCOUNT('FactSales'[OrderID]),
+        'FactSales'[Returned] = "Yes"
+    )
+VAR TotalOrders = [Total Orders]
+RETURN
+IF(
+    TotalOrders = 0, 
+    BLANK(), 
+    DIVIDE(ReturnedOrders, TotalOrders)
+)
+
+Previous Month Revenue =
+
+CALCULATE(
+    [Total Revenue],  // 이미 만든 총매출 measure
+    DATEADD('DimDate'[Date], -1, MONTH)
+)
+
+Previous Month Orders =
+
+CALCULATE(
+    [Total Orders],
+    DATEADD('DimDate'[Date], -1, MONTH))
+
+Total Returns =
+
+DISTINCTCOUNT('FactReturns'[OrderID])
+
+Previous Month Returns =
+
+CALCULATE(
+    DISTINCTCOUNT('FactReturns'[OrderID]),
+    DATEADD('DimDate'[Date], -1, MONTH)
+)
+
+adjust price =
+[Average Price]*(1+'Price adjustment'[Price adjustment Value])
+
+Average Price =
+
+DIVIDE( SUM(FactSales[Revenue]), SUM(FactSales[Quantity]) )
+
+
+Total Revenue1 =
+
+SUM('FactSales'[Revenue])
+
+Adjusted Revenue =
+
+SUMX(
+    FactSales,
+    FactSales[Revenue] * SELECTEDVALUE('Price adjustment'[Price adjustment], 1)
+)
+
+
+Adjusted Profit =
+
+[Adjusted Revenue] 
+    - SUM ( FactSales[Cost] )
+
+
+Price adjustment Value =
+SELECTEDVALUE('Price adjustment'[Price adjustment], 0)
+

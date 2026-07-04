@@ -1,0 +1,255 @@
+﻿call_id,from,to,type,start,end,status,duration_sec,recorded,duration_raw
+1,Giulia Ranuzzi Status: Completed,:,Video Call,05/10/2025 at 06:42 PM,05/10/2025 at 06:45 PM,,146.0,No,2 min 26 sec
+2,Giulia Ranuzzi Status: Completed,:,Video Call,05/11/2025 at 02:23 PM,05/11/2025 at 02:24 PM,,48.0,No,48 sec
+3,Giulia Ranuzzi Status: Completed,:,Video Call,05/14/2025 at 08:25 AM,05/14/2025 at 08:26 AM,,79.0,No,1 min 19 sec
+4,Giulia Ranuzzi Status: Unanswered,:,Video Call,05/17/2025 at 08:20 AM,N/A,,,No,N/A
+5,Sotiris ieremiadis Status: Cancelled,:,Video Call,05/17/2025 at 08:27 AM,N/A,,,No,N/A
+6,Giulia Ranuzzi Status: Completed,:,Video Call,05/17/2025 at 04:15 PM,05/17/2025 at 04:16 PM,,43.0,No,43 sec
+7,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,05/19/2025 at 04:05 PM,N/A,,,No,N/A
+8,Sotiris ieremiadis Status: Completed,:,Video Call,05/19/2025 at 04:08 PM,05/19/2025 at 04:11 PM,,143.0,No,2 min 23 sec
+9,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,05/21/2025 at 06:59 PM,N/A,,,No,N/A
+10,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,05/21/2025 at 07:25 PM,N/A,,,No,N/A
+11,:,:,Video Call,05/21/2025 at 07:31 PM,05/21/2025 at 07:34 PM,,146.0,No,2 min 26 sec
+12,Giulia Ranuzzi Status: Completed,:,Video Call,05/24/2025 at 06:30 PM,05/24/2025 at 06:35 PM,,256.0,No,4 min 16 sec
+13,Giulia Ranuzzi Status: Completed,:,Video Call,05/25/2025 at 11:35 AM,05/25/2025 at 11:40 AM,,287.0,No,4 min 47 sec
+14,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,05/29/2025 at 08:20 AM,N/A,,,No,N/A
+15,Sotiris ieremiadis Status: Cancelled,:,Video Call,05/29/2025 at 08:23 AM,N/A,,,No,N/A
+16,Sotiris ieremiadis Status: Completed,:,Video Call,05/29/2025 at 08:33 AM,05/29/2025 at 08:40 AM,,411.0,No,6 min 51 sec
+17,Giulia Ranuzzi Status: Cancelled,:,Video Call,05/31/2025 at 09:56 AM,N/A,,,No,N/A
+18,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,05/31/2025 at 09:57 AM,N/A,,,No,N/A
+19,Giulia Ranuzzi Status: Cancelled,:,Video Call,05/31/2025 at 09:58 AM,N/A,,,No,N/A
+20,Giulia Ranuzzi Status: Cancelled,:,Video Call,05/31/2025 at 09:59 AM,N/A,,,No,N/A
+21,Giulia Ranuzzi Status: Completed,:,Video Call,05/31/2025 at 09:59 AM,05/31/2025 at 10:01 AM,,64.0,No,1 min 4 sec
+22,Sotiris ieremiadis Status: Completed,:,Video Call,05/31/2025 at 10:01 AM,05/31/2025 at 10:01 AM,,4.0,No,4 sec
+23,Giulia Ranuzzi Status: Completed,:,Video Call,05/31/2025 at 10:01 AM,05/31/2025 at 10:01 AM,,6.0,No,6 sec
+24,Giulia Ranuzzi Status: Unanswered,:,Video Call,05/31/2025 at 10:01 AM,N/A,,,No,N/A
+25,Giulia Ranuzzi Status: Unanswered,:,Video Call,05/31/2025 at 10:02 AM,N/A,,,No,N/A
+26,Giulia Ranuzzi Status: Cancelled,:,Video Call,05/31/2025 at 10:02 AM,N/A,,,No,N/A
+27,Giulia Ranuzzi Status: Completed,:,Video Call,06/02/2025 at 09:36 PM,06/02/2025 at 09:37 PM,,30.0,No,30 sec
+28,Giulia Ranuzzi Status: Unanswered,:,Video Call,06/03/2025 at 08:00 AM,N/A,,,No,N/A
+29,Giulia Ranuzzi Status: Unanswered,:,Video Call,06/03/2025 at 08:01 AM,N/A,,,No,N/A
+30,Giulia Ranuzzi Status: Completed,:,Video Call,06/03/2025 at 08:02 AM,06/03/2025 at 08:08 AM,,399.0,No,6 min 39 sec
+31,Giulia Ranuzzi Status: Completed,:,Video Call,06/04/2025 at 08:18 AM,06/04/2025 at 08:21 AM,,195.0,No,3 min 15 sec
+32,Giulia Ranuzzi Status: Completed,:,Video Call,06/07/2025 at 05:53 PM,06/07/2025 at 05:54 PM,,31.0,No,31 sec
+33,Sotiris ieremiadis Status: Cancelled,:,Video Call,06/07/2025 at 05:54 PM,N/A,,,No,N/A
+34,Sotiris ieremiadis Status: Cancelled,:,Video Call,06/07/2025 at 05:58 PM,N/A,,,No,N/A
+35,Giulia Ranuzzi Status: Completed,:,Video Call,06/07/2025 at 06:18 PM,06/07/2025 at 06:21 PM,,158.0,No,2 min 38 sec
+36,Giulia Ranuzzi Status: Completed,:,Video Call,06/08/2025 at 10:57 AM,06/08/2025 at 11:01 AM,,204.0,No,3 min 24 sec
+37,Giulia Ranuzzi Status: Unanswered,:,Video Call,06/11/2025 at 07:42 AM,N/A,,,No,N/A
+38,Sotiris ieremiadis Status: Completed,:,Video Call,06/11/2025 at 07:43 AM,06/11/2025 at 08:04 AM,,1231.0,No,20 min 31 sec
+39,Giulia Ranuzzi Status: Unanswered,:,Video Call,06/15/2025 at 10:04 AM,N/A,,,No,N/A
+40,Giulia Ranuzzi Status: Unanswered,:,Video Call,06/15/2025 at 10:05 AM,N/A,,,No,N/A
+41,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,06/15/2025 at 10:15 AM,N/A,,,No,N/A
+42,Giulia Ranuzzi Status: Completed,:,Video Call,06/15/2025 at 11:49 AM,06/15/2025 at 11:54 AM,,254.0,No,4 min 14 sec
+43,Giulia Ranuzzi Status: Completed,:,Video Call,06/16/2025 at 06:36 PM,06/16/2025 at 06:41 PM,,223.0,No,3 min 43 sec
+44,Giulia Ranuzzi Status: Completed,:,Video Call,06/17/2025 at 04:28 PM,06/17/2025 at 04:31 PM,,122.0,No,2 min 2 sec
+45,Sotiris ieremiadis Status: Completed,:,Video Call,06/17/2025 at 04:37 PM,06/17/2025 at 04:38 PM,,49.0,No,49 sec
+46,Sotiris ieremiadis Status: Completed,:,Video Call,06/17/2025 at 04:38 PM,06/17/2025 at 04:40 PM,,123.0,No,2 min 3 sec
+47,Giulia Ranuzzi Status: Cancelled,:,Video Call,06/17/2025 at 04:48 PM,N/A,,,No,N/A
+48,Giulia Ranuzzi Status: Completed,:,Video Call,06/21/2025 at 10:26 AM,06/21/2025 at 10:35 AM,,538.0,No,8 min 58 sec
+49,Giulia Ranuzzi Status: Completed,:,Video Call,06/22/2025 at 12:45 PM,06/22/2025 at 12:59 PM,,833.0,No,13 min 53 sec
+50,Sotiris ieremiadis Status: Cancelled,:,Video Call,06/22/2025 at 12:59 PM,N/A,,,No,N/A
+51,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,06/25/2025 at 06:55 PM,N/A,,,No,N/A
+52,Sotiris ieremiadis Status: Cancelled,:,Video Call,06/25/2025 at 06:59 PM,N/A,,,No,N/A
+53,Sotiris ieremiadis Status: Completed,:,Video Call,06/25/2025 at 07:11 PM,06/25/2025 at 07:13 PM,,50.0,No,50 sec
+54,Giulia Ranuzzi Status: Completed,:,Video Call,06/28/2025 at 05:33 PM,06/28/2025 at 05:36 PM,,147.0,No,2 min 27 sec
+55,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,06/29/2025 at 07:05 PM,N/A,,,No,N/A
+56,Sotiris ieremiadis Status: Completed,:,Video Call,06/29/2025 at 07:19 PM,06/29/2025 at 07:20 PM,,46.0,No,46 sec
+57,Sotiris ieremiadis Status: Completed,:,Video Call,06/29/2025 at 07:20 PM,06/29/2025 at 07:22 PM,,122.0,No,2 min 2 sec
+58,Giulia Ranuzzi Status: Completed,:,Video Call,06/30/2025 at 06:55 PM,06/30/2025 at 06:58 PM,,175.0,No,2 min 55 sec
+59,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/01/2025 at 06:03 PM,N/A,,,No,N/A
+60,Sotiris ieremiadis Status: Completed,:,Video Call,07/01/2025 at 06:06 PM,07/01/2025 at 06:09 PM,,200.0,No,3 min 20 sec
+61,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/02/2025 at 12:33 PM,N/A,,,No,N/A
+62,Sotiris ieremiadis Status: Completed,:,Video Call,07/02/2025 at 12:33 PM,07/02/2025 at 12:37 PM,,229.0,No,3 min 49 sec
+63,Giulia Ranuzzi Status: Completed,:,Video Call,07/03/2025 at 11:14 AM,07/03/2025 at 11:17 AM,,128.0,Yes,2 min 8 sec
+64,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/04/2025 at 09:06 AM,N/A,,,Yes,N/A
+65,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,07/04/2025 at 09:17 AM,N/A,,,No,N/A
+66,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/04/2025 at 09:22 AM,N/A,,,Yes,N/A
+67,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,07/04/2025 at 09:24 AM,N/A,,,No,N/A
+68,Giulia Ranuzzi Status: Completed,:,Video Call,07/04/2025 at 09:25 AM,07/04/2025 at 09:30 AM,,316.0,Yes,5 min 16 sec
+69,Giulia Ranuzzi Status: Completed,:,Video Call,07/05/2025 at 10:22 AM,07/05/2025 at 10:25 AM,,168.0,Yes,2 min 48 sec
+70,Giulia Ranuzzi Status: Completed,:,Video Call,07/06/2025 at 10:34 AM,07/06/2025 at 10:38 AM,,212.0,Yes,3 min 32 sec
+71,Giulia Ranuzzi Status: Completed,:,Video Call,07/07/2025 at 04:02 PM,07/07/2025 at 04:11 PM,,527.0,Yes,8 min 47 sec
+72,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/08/2025 at 01:46 PM,N/A,,,Yes,N/A
+73,Sotiris ieremiadis Status: Cancelled,:,Video Call,07/08/2025 at 01:50 PM,N/A,,,Yes,N/A
+74,Giulia Ranuzzi Status: Completed,:,Video Call,07/08/2025 at 04:16 PM,07/08/2025 at 04:19 PM,,166.0,Yes,2 min 46 sec
+75,Giulia Ranuzzi Status: Completed,:,Video Call,07/09/2025 at 01:21 PM,07/09/2025 at 01:25 PM,,175.0,Yes,2 min 55 sec
+76,Giulia Ranuzzi Status: Completed,:,Video Call,07/10/2025 at 02:34 PM,07/10/2025 at 02:35 PM,,62.0,Yes,1 min 2 sec
+77,Giulia Ranuzzi Status: Completed,:,Video Call,07/11/2025 at 11:05 AM,07/11/2025 at 11:11 AM,,371.0,Yes,6 min 11 sec
+78,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/12/2025 at 10:06 AM,N/A,,,Yes,N/A
+79,Sotiris ieremiadis Status: Cancelled,:,Video Call,07/12/2025 at 10:11 AM,N/A,,,Yes,N/A
+80,:,:,Video Call,07/12/2025 at 10:12 AM,N/A,,,Yes,N/A
+81,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/12/2025 at 11:45 AM,N/A,,,Yes,N/A
+82,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,07/12/2025 at 12:40 PM,N/A,,,Yes,N/A
+83,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/12/2025 at 01:08 PM,N/A,,,Yes,N/A
+84,Giulia Ranuzzi Status: Completed,:,Video Call,07/12/2025 at 01:09 PM,07/12/2025 at 01:11 PM,,93.0,Yes,1 min 33 sec
+85,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,07/16/2025 at 06:51 PM,N/A,,,Yes,N/A
+86,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,07/16/2025 at 07:01 PM,N/A,,,Yes,N/A
+87,Giulia Ranuzzi Status: Completed,:,Video Call,07/16/2025 at 07:08 PM,07/16/2025 at 07:10 PM,,124.0,Yes,2 min 4 sec
+88,Sotiris ieremiadis Status: Completed,:,Video Call,07/16/2025 at 07:11 PM,07/16/2025 at 07:12 PM,,20.0,Yes,20 sec
+89,Giulia Ranuzzi Status: Completed,:,Video Call,07/19/2025 at 05:18 PM,07/19/2025 at 05:19 PM,,23.0,Yes,23 sec
+90,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/20/2025 at 10:14 AM,N/A,,,Yes,N/A
+91,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,07/20/2025 at 10:31 AM,N/A,,,Yes,N/A
+92,Giulia Ranuzzi Status: Completed,:,Video Call,07/20/2025 at 10:50 AM,07/20/2025 at 10:52 AM,,83.0,Yes,1 min 23 sec
+93,Giulia Ranuzzi Status: Completed,:,Video Call,07/23/2025 at 05:29 PM,07/23/2025 at 05:33 PM,,211.0,Yes,3 min 31 sec
+94,Giulia Ranuzzi Status: Completed,:,Video Call,07/26/2025 at 08:45 AM,07/26/2025 at 08:50 AM,,263.0,Yes,4 min 23 sec
+95,Giulia Ranuzzi Status: Completed,:,Video Call,07/27/2025 at 10:59 AM,07/27/2025 at 11:09 AM,,627.0,Yes,10 min 27 sec
+96,Giulia Ranuzzi Status: Unanswered,:,Video Call,07/30/2025 at 01:52 PM,N/A,,,Yes,N/A
+97,Giulia Ranuzzi Status: Completed,:,Video Call,07/30/2025 at 01:53 PM,07/30/2025 at 01:54 PM,,38.0,Yes,38 sec
+98,Giulia Ranuzzi Status: Completed,:,Video Call,08/02/2025 at 06:39 PM,08/02/2025 at 06:40 PM,,52.0,Yes,52 sec
+99,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/03/2025 at 07:03 PM,N/A,,,Yes,N/A
+100,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/03/2025 at 07:15 PM,N/A,,,Yes,N/A
+101,Giulia Ranuzzi Status: Cancelled,:,Video Call,08/03/2025 at 07:25 PM,N/A,,,Yes,N/A
+102,Giulia Ranuzzi Status: Completed,:,Video Call,08/03/2025 at 07:25 PM,08/03/2025 at 07:36 PM,,640.0,Yes,10 min 40 sec
+103,Sotiris ieremiadis Status: Cancelled,:,Video Call,08/03/2025 at 07:36 PM,N/A,,,Yes,N/A
+104,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/06/2025 at 04:45 PM,N/A,,,Yes,N/A
+105,Giulia Ranuzzi Status: Completed,:,Video Call,08/06/2025 at 04:46 PM,08/06/2025 at 04:47 PM,,85.0,Yes,1 min 25 sec
+106,Giulia Ranuzzi Status: Completed,:,Video Call,08/09/2025 at 09:40 AM,08/09/2025 at 09:42 AM,,106.0,Yes,1 min 46 sec
+107,Giulia Ranuzzi Status: Completed,:,Video Call,08/10/2025 at 01:28 PM,08/10/2025 at 01:30 PM,,72.0,Yes,1 min 12 sec
+108,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/12/2025 at 03:38 PM,N/A,,,Yes,N/A
+109,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/12/2025 at 03:39 PM,N/A,,,Yes,N/A
+110,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/12/2025 at 03:51 PM,N/A,,,Yes,N/A
+111,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/12/2025 at 03:56 PM,N/A,,,Yes,N/A
+112,Giulia Ranuzzi Status: Completed,:,Video Call,08/12/2025 at 04:02 PM,08/12/2025 at 04:06 PM,,213.0,Yes,3 min 33 sec
+113,Giulia Ranuzzi Status: Completed,:,Video Call,08/12/2025 at 04:06 PM,08/12/2025 at 04:07 PM,,13.0,Yes,13 sec
+114,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/13/2025 at 11:54 AM,N/A,,,Yes,N/A
+115,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/13/2025 at 11:57 AM,N/A,,,Yes,N/A
+116,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/13/2025 at 11:58 AM,N/A,,,Yes,N/A
+117,Giulia Ranuzzi Status: Cancelled,:,Video Call,08/13/2025 at 11:58 AM,N/A,,,Yes,N/A
+118,Giulia Ranuzzi Status: Cancelled,:,Video Call,08/13/2025 at 11:58 AM,N/A,,,Yes,N/A
+119,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/13/2025 at 11:58 AM,N/A,,,Yes,N/A
+120,Sotiris ieremiadis Status: Completed,:,Video Call,08/13/2025 at 11:58 AM,08/13/2025 at 12:00 PM,,83.0,Yes,1 min 23 sec
+121,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/13/2025 at 12:00 PM,N/A,,,Yes,N/A
+122,Sotiris ieremiadis Status: Completed,:,Video Call,08/13/2025 at 12:00 PM,08/13/2025 at 12:02 PM,,111.0,Yes,1 min 51 sec
+123,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/14/2025 at 10:17 AM,N/A,,,Yes,N/A
+124,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/14/2025 at 10:18 AM,N/A,,,Yes,N/A
+125,Giulia Ranuzzi Status: Cancelled,:,Video Call,08/14/2025 at 10:19 AM,N/A,,,Yes,N/A
+126,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/14/2025 at 10:42 AM,N/A,,,Yes,N/A
+127,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/14/2025 at 10:44 AM,N/A,,,Yes,N/A
+128,Giulia Ranuzzi Status: Completed,:,Video Call,08/14/2025 at 10:57 AM,08/14/2025 at 10:59 AM,,149.0,Yes,2 min 29 sec
+129,Giulia Ranuzzi Status: Cancelled,:,Video Call,08/15/2025 at 12:44 PM,N/A,,,Yes,N/A
+130,Sotiris ieremiadis Status: Completed,:,Video Call,08/15/2025 at 12:51 PM,08/15/2025 at 12:53 PM,,102.0,Yes,1 min 42 sec
+131,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/16/2025 at 04:25 PM,N/A,,,Yes,N/A
+132,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/16/2025 at 04:43 PM,N/A,,,Yes,N/A
+133,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/16/2025 at 04:52 PM,N/A,,,Yes,N/A
+134,Giulia Ranuzzi Status: Completed,:,Video Call,08/16/2025 at 05:13 PM,08/16/2025 at 05:15 PM,,130.0,Yes,2 min 10 sec
+135,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/17/2025 at 10:12 AM,N/A,,,Yes,N/A
+136,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/17/2025 at 10:12 AM,N/A,,,Yes,N/A
+137,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/17/2025 at 10:41 AM,N/A,,,Yes,N/A
+138,Giulia Ranuzzi Status: Completed,:,Video Call,08/17/2025 at 10:42 AM,08/17/2025 at 10:44 AM,,92.0,Yes,1 min 32 sec
+139,Giulia Ranuzzi Status: Completed,:,Video Call,08/17/2025 at 10:44 AM,08/17/2025 at 10:44 AM,,8.0,Yes,8 sec
+140,Giulia Ranuzzi Status: Completed,:,Video Call,08/17/2025 at 10:44 AM,08/17/2025 at 10:49 AM,,280.0,Yes,4 min 40 sec
+141,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/18/2025 at 02:49 PM,N/A,,,Yes,N/A
+142,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/18/2025 at 02:52 PM,N/A,,,Yes,N/A
+143,Sotiris ieremiadis Status: Cancelled,:,Video Call,08/18/2025 at 02:56 PM,N/A,,,Yes,N/A
+144,Giulia Ranuzzi Status: Completed,:,Video Call,08/18/2025 at 02:57 PM,08/18/2025 at 02:58 PM,,45.0,Yes,45 sec
+145,Giulia Ranuzzi Status: Failed,:,Video Call,08/19/2025 at 11:22 AM,N/A,,,Yes,N/A
+146,Sotiris ieremiadis Status: Completed,:,Video Call,08/19/2025 at 11:23 AM,08/19/2025 at 11:29 AM,,322.0,Yes,5 min 22 sec
+147,Giulia Ranuzzi Status: Completed,:,Video Call,08/19/2025 at 11:29 AM,08/19/2025 at 11:29 AM,,16.0,Yes,16 sec
+148,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/20/2025 at 08:43 AM,N/A,,,Yes,N/A
+149,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/20/2025 at 12:42 PM,N/A,,,Yes,N/A
+150,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/20/2025 at 12:49 PM,N/A,,,Yes,N/A
+151,Giulia Ranuzzi Status: Completed,:,Video Call,08/20/2025 at 12:50 PM,08/20/2025 at 12:52 PM,,108.0,Yes,1 min 48 sec
+152,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/21/2025 at 10:55 AM,N/A,,,Yes,N/A
+153,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/21/2025 at 10:59 AM,N/A,,,Yes,N/A
+154,Giulia Ranuzzi Status: Completed,:,Video Call,08/21/2025 at 11:04 AM,08/21/2025 at 11:06 AM,,113.0,Yes,1 min 53 sec
+155,Giulia Ranuzzi Status: Completed,:,Video Call,08/22/2025 at 11:00 AM,08/22/2025 at 11:02 AM,,78.0,Yes,1 min 18 sec
+156,Giulia Ranuzzi Status: Completed,:,Video Call,08/27/2025 at 05:02 PM,08/27/2025 at 05:02 PM,,32.0,Yes,32 sec
+157,Giulia Ranuzzi Status: Completed,:,Video Call,08/30/2025 at 10:23 AM,08/30/2025 at 10:25 AM,,89.0,Yes,1 min 29 sec
+158,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/31/2025 at 11:11 AM,N/A,,,Yes,N/A
+159,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/31/2025 at 11:16 AM,N/A,,,Yes,N/A
+160,Giulia Ranuzzi Status: Unanswered,:,Video Call,08/31/2025 at 11:21 AM,N/A,,,Yes,N/A
+161,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,08/31/2025 at 11:26 AM,N/A,,,Yes,N/A
+162,Giulia Ranuzzi Status: Completed,:,Video Call,08/31/2025 at 11:40 AM,08/31/2025 at 11:43 AM,,139.0,Yes,2 min 19 sec
+163,Giulia Ranuzzi Status: Completed,:,Video Call,09/03/2025 at 02:25 PM,09/03/2025 at 02:26 PM,,67.0,Yes,1 min 7 sec
+164,Sotiris ieremiadis Status: Completed,:,Video Call,09/03/2025 at 02:27 PM,09/03/2025 at 02:27 PM,,42.0,Yes,42 sec
+165,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,09/06/2025 at 06:19 PM,N/A,,,Yes,N/A
+166,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,09/06/2025 at 06:45 PM,N/A,,,Yes,N/A
+167,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,09/06/2025 at 07:01 PM,N/A,,,Yes,N/A
+168,Sotiris ieremiadis Status: Cancelled,:,Video Call,09/06/2025 at 07:02 PM,N/A,,,Yes,N/A
+169,Giulia Ranuzzi Status: Completed,:,Video Call,09/06/2025 at 07:03 PM,09/06/2025 at 07:04 PM,,27.0,Yes,27 sec
+170,Giulia Ranuzzi Status: Completed,:,Video Call,09/07/2025 at 04:30 PM,09/07/2025 at 04:31 PM,,23.0,Yes,23 sec
+171,Giulia Ranuzzi Status: Completed,:,Video Call,09/07/2025 at 04:35 PM,09/07/2025 at 04:38 PM,,159.0,Yes,2 min 39 sec
+172,Giulia Ranuzzi Status: Unanswered,:,Video Call,09/10/2025 at 06:02 PM,N/A,,,Yes,N/A
+173,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,09/10/2025 at 06:03 PM,N/A,,,Yes,N/A
+174,Giulia Ranuzzi Status: Completed,:,Video Call,09/10/2025 at 06:04 PM,09/10/2025 at 06:06 PM,,73.0,Yes,1 min 13 sec
+175,Giulia Ranuzzi Status: Completed,:,Video Call,09/15/2025 at 04:54 PM,09/15/2025 at 04:57 PM,,145.0,Yes,2 min 25 sec
+176,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,09/20/2025 at 05:55 PM,N/A,,,Yes,N/A
+177,Giulia Ranuzzi Status: Completed,:,Video Call,09/20/2025 at 06:16 PM,09/20/2025 at 06:17 PM,,66.0,Yes,1 min 6 sec
+178,Giulia Ranuzzi Status: Completed,:,Video Call,09/21/2025 at 03:34 PM,09/21/2025 at 03:35 PM,,21.0,Yes,21 sec
+179,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,09/24/2025 at 06:59 PM,N/A,,,Yes,N/A
+180,Sotiris ieremiadis Status: Completed,:,Video Call,09/24/2025 at 07:14 PM,09/24/2025 at 07:15 PM,,22.0,Yes,22 sec
+181,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,09/27/2025 at 06:58 PM,N/A,,,Yes,N/A
+182,Giulia Ranuzzi Status: Completed,:,Video Call,09/27/2025 at 07:03 PM,09/27/2025 at 07:05 PM,,97.0,Yes,1 min 37 sec
+183,Giulia Ranuzzi Status: Cancelled,:,Video Call,09/28/2025 at 05:38 PM,N/A,,,Yes,N/A
+184,Giulia Ranuzzi Status: Unanswered,:,Video Call,09/28/2025 at 05:38 PM,N/A,,,Yes,N/A
+185,Giulia Ranuzzi Status: Completed,:,Video Call,09/28/2025 at 05:38 PM,09/28/2025 at 05:39 PM,,17.0,Yes,17 sec
+186,Sotiris ieremiadis Status: Completed,:,Video Call,09/28/2025 at 05:39 PM,09/28/2025 at 05:39 PM,,16.0,Yes,16 sec
+187,Giulia Ranuzzi Status: Completed,:,Video Call,09/28/2025 at 05:40 PM,09/28/2025 at 05:40 PM,,7.0,Yes,7 sec
+188,Giulia Ranuzzi Status: Completed,:,Video Call,09/28/2025 at 05:40 PM,09/28/2025 at 05:41 PM,,56.0,Yes,56 sec
+189,Giulia Ranuzzi Status: Completed,:,Video Call,10/01/2025 at 05:22 PM,10/01/2025 at 05:23 PM,,38.0,Yes,38 sec
+190,Giulia Ranuzzi Status: Completed,:,Video Call,10/04/2025 at 02:46 PM,10/04/2025 at 02:52 PM,,323.0,Yes,5 min 23 sec
+191,Giulia Ranuzzi Status: Completed,:,Video Call,10/05/2025 at 10:12 AM,10/05/2025 at 10:15 AM,,145.0,Yes,2 min 25 sec
+192,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,10/08/2025 at 07:16 PM,N/A,,,Yes,N/A
+193,Giulia Ranuzzi Status: Completed,:,Video Call,10/08/2025 at 07:19 PM,10/08/2025 at 07:21 PM,,104.0,Yes,1 min 44 sec
+194,Giulia Ranuzzi Status: Unanswered,:,Video Call,10/12/2025 at 11:15 AM,N/A,,,Yes,N/A
+195,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,10/12/2025 at 11:20 AM,N/A,,,Yes,N/A
+196,Giulia Ranuzzi Status: Completed,:,Video Call,10/12/2025 at 11:22 AM,10/12/2025 at 11:27 AM,,284.0,Yes,4 min 44 sec
+197,Giulia Ranuzzi Status: Completed,:,Video Call,10/12/2025 at 11:27 AM,10/12/2025 at 11:27 AM,,14.0,Yes,14 sec
+198,Giulia Ranuzzi Status: Completed,:,Video Call,10/13/2025 at 12:49 PM,10/13/2025 at 12:52 PM,,105.0,Yes,1 min 45 sec
+199,Giulia Ranuzzi Status: Completed,:,Video Call,10/14/2025 at 04:19 PM,10/14/2025 at 04:22 PM,,158.0,Yes,2 min 38 sec
+200,Giulia Ranuzzi Status: Unanswered,:,Video Call,10/18/2025 at 08:49 AM,N/A,,,Yes,N/A
+201,Giulia Ranuzzi Status: Completed,:,Video Call,10/18/2025 at 08:51 AM,10/18/2025 at 08:57 AM,,358.0,Yes,5 min 58 sec
+202,Sotiris ieremiadis Status: Completed,:,Video Call,10/19/2025 at 06:23 PM,10/19/2025 at 06:25 PM,,61.0,Yes,1 min 1 sec
+203,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,10/22/2025 at 06:50 PM,N/A,,,Yes,N/A
+204,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,10/22/2025 at 07:17 PM,N/A,,,Yes,N/A
+205,Giulia Ranuzzi Status: Completed,:,Video Call,10/22/2025 at 07:39 PM,10/22/2025 at 07:40 PM,,50.0,Yes,50 sec
+206,Giulia Ranuzzi Status: Completed,:,Video Call,10/25/2025 at 12:35 PM,10/25/2025 at 12:36 PM,,45.0,Yes,45 sec
+207,Giulia Ranuzzi Status: Completed,:,Video Call,10/26/2025 at 11:10 AM,10/26/2025 at 11:14 AM,,203.0,Yes,3 min 23 sec
+208,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,10/29/2025 at 07:00 PM,N/A,,,Yes,N/A
+209,Sotiris ieremiadis Status: Completed,:,Video Call,10/29/2025 at 07:27 PM,10/29/2025 at 07:29 PM,,60.0,Yes,1 min
+210,Giulia Ranuzzi Status: Completed,:,Video Call,11/01/2025 at 10:21 AM,11/01/2025 at 10:26 AM,,239.0,Yes,3 min 59 sec
+211,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/02/2025 at 07:00 PM,N/A,,,Yes,N/A
+212,Giulia Ranuzzi Status: Completed,:,Video Call,11/03/2025 at 08:27 AM,11/03/2025 at 08:29 AM,,84.0,Yes,1 min 24 sec
+213,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/05/2025 at 06:28 PM,N/A,,,Yes,N/A
+214,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/05/2025 at 07:24 PM,N/A,,,Yes,N/A
+215,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/05/2025 at 07:24 PM,N/A,,,Yes,N/A
+216,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/05/2025 at 07:25 PM,N/A,,,Yes,N/A
+217,Sotiris ieremiadis Status: Completed,:,Video Call,11/05/2025 at 07:41 PM,11/05/2025 at 07:42 PM,,46.0,Yes,46 sec
+218,Giulia Ranuzzi Status: Completed,:,Video Call,11/09/2025 at 11:06 AM,11/09/2025 at 11:09 AM,,133.0,Yes,2 min 13 sec
+219,Giulia Ranuzzi Status: Completed,:,Video Call,11/09/2025 at 11:09 AM,11/09/2025 at 11:13 AM,,253.0,Yes,4 min 13 sec
+220,Giulia Ranuzzi Status: Completed,:,Video Call,11/10/2025 at 04:44 PM,11/10/2025 at 04:45 PM,,52.0,Yes,52 sec
+221,Giulia Ranuzzi Status: Cancelled,:,Video Call,11/12/2025 at 08:40 AM,N/A,,,Yes,N/A
+222,Giulia Ranuzzi Status: Unanswered,:,Video Call,11/12/2025 at 08:51 AM,N/A,,,Yes,N/A
+223,Giulia Ranuzzi Status: Cancelled,:,Video Call,11/15/2025 at 03:23 PM,N/A,,,Yes,N/A
+224,Giulia Ranuzzi Status: Completed,:,Video Call,11/15/2025 at 03:24 PM,11/15/2025 at 03:25 PM,,104.0,Yes,1 min 44 sec
+225,Giulia Ranuzzi Status: Completed,:,Video Call,11/16/2025 at 09:18 AM,11/16/2025 at 09:19 AM,,18.0,Yes,18 sec
+226,Giulia Ranuzzi Status: Completed,:,Video Call,11/17/2025 at 09:51 AM,11/17/2025 at 09:52 AM,,73.0,Yes,1 min 13 sec
+227,Giulia Ranuzzi Status: Completed,:,Video Call,11/18/2025 at 01:00 PM,11/18/2025 at 01:03 PM,,146.0,Yes,2 min 26 sec
+228,Giulia Ranuzzi Status: Unanswered,:,Video Call,11/19/2025 at 06:28 AM,N/A,,,Yes,N/A
+229,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/19/2025 at 07:06 AM,N/A,,,Yes,N/A
+230,Giulia Ranuzzi Status: Completed,:,Video Call,11/19/2025 at 07:12 AM,11/19/2025 at 07:14 AM,,77.0,Yes,1 min 17 sec
+231,Giulia Ranuzzi Status: Completed,:,Video Call,11/20/2025 at 06:41 AM,11/20/2025 at 06:45 AM,,221.0,Yes,3 min 41 sec
+232,Giulia Ranuzzi Status: Completed,:,Video Call,11/22/2025 at 04:28 PM,11/22/2025 at 04:29 PM,,31.0,Yes,31 sec
+233,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/22/2025 at 04:29 PM,N/A,,,Yes,N/A
+234,Giulia Ranuzzi Status: Unanswered,:,Video Call,11/22/2025 at 04:29 PM,N/A,,,Yes,N/A
+235,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/22/2025 at 04:30 PM,N/A,,,Yes,N/A
+236,Giulia Ranuzzi Status: Completed,:,Video Call,11/22/2025 at 04:30 PM,11/22/2025 at 04:32 PM,,120.0,Yes,2 min
+237,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/23/2025 at 06:07 PM,N/A,,,Yes,N/A
+238,Giulia Ranuzzi Status: Completed,:,Video Call,11/23/2025 at 06:12 PM,11/23/2025 at 06:14 PM,,87.0,Yes,1 min 27 sec
+239,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/26/2025 at 07:08 PM,N/A,,,Yes,N/A
+240,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/26/2025 at 07:31 PM,N/A,,,Yes,N/A
+241,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/26/2025 at 07:42 PM,N/A,,,Yes,N/A
+242,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/26/2025 at 08:02 PM,N/A,,,Yes,N/A
+243,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/26/2025 at 08:16 PM,N/A,,,Yes,N/A
+244,Giulia Ranuzzi Status: Completed,:,Video Call,11/26/2025 at 08:35 PM,11/26/2025 at 08:37 PM,,118.0,Yes,1 min 58 sec
+245,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,11/29/2025 at 06:11 PM,N/A,,,Yes,N/A
+246,Giulia Ranuzzi Status: Completed,:,Video Call,11/29/2025 at 06:34 PM,11/29/2025 at 06:36 PM,,151.0,Yes,2 min 31 sec
+247,Giulia Ranuzzi Status: Completed,:,Video Call,11/30/2025 at 01:13 PM,11/30/2025 at 01:16 PM,,125.0,Yes,2 min 5 sec
+248,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,12/03/2025 at 07:10 PM,N/A,,,Yes,N/A
+249,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,12/03/2025 at 07:31 PM,N/A,,,Yes,N/A
+250,Giulia Ranuzzi Status: Completed,:,Video Call,12/03/2025 at 07:38 PM,12/03/2025 at 07:39 PM,,47.0,Yes,47 sec
+251,Sotiris ieremiadis Status: Missed/Unanswered,:,Video Call,12/06/2025 at 07:02 PM,N/A,,,Yes,N/A
+252,Sotiris ieremiadis Status: Completed,:,Video Call,12/06/2025 at 07:27 PM,12/06/2025 at 07:28 PM,,56.0,Yes,56 sec
+253,Giulia Ranuzzi Status: Completed,:,Video Call,12/07/2025 at 12:53 PM,12/07/2025 at 12:56 PM,,184.0,Yes,3 min 4 sec
+254,Giulia Ranuzzi Status: Completed,:,Video Call,12/10/2025 at 08:06 AM,12/10/2025 at 08:10 AM,,233.0,Yes,3 min 53 sec

@@ -6,7 +6,7 @@ This project demonstrates an automated Excel reporting system built entirely wit
 
 
 
-Key Features 
+Key Features
 
 
 
@@ -18,7 +18,7 @@ Error-tolerant refresh structure
 
 
 
-Workflow 
+Workflow
 
 
 
@@ -58,7 +58,7 @@ Scales with growing data
 
 개요
 
-이 프로젝트는 Power Query만으로 구축한 엑셀 자동 보고 시스템입니다. 여러 개의 월별 Excel 파일을 자동 통합하고, 매핑 로직을 적용하며, 매핑되지 않은 데이터를 탐지하고, 보고서를 자동 생성합니다. 모든 작업은 새로고침 한 번으로 완료됩니다. 실제 업무 환경에서 반복적인 수작업을 제거하기 위해 설계되었습니다. 
+이 프로젝트는 Power Query만으로 구축한 엑셀 자동 보고 시스템입니다. 여러 개의 월별 Excel 파일을 자동 통합하고, 매핑 로직을 적용하며, 매핑되지 않은 데이터를 탐지하고, 보고서를 자동 생성합니다. 모든 작업은 새로고침 한 번으로 완료됩니다. 실제 업무 환경에서 반복적인 수작업을 제거하기 위해 설계되었습니다.
 
 
 
@@ -110,17 +110,5 @@ Merge + Anti Join 로직
 
 \## Demo Video
 
-1.https://youtu.be/RrSQbbsh-Ys
-
-2.https://youtu.be/TDYwmUnXW\_M
-
-3.https://youtu.be/2vgHFhHgGe4
-
-4.https://youtu.be/7\_V0wrHN49Q
-
-5.https://youtu.be/8wNIxj2iOZg
-
-6.https://youtu.be/cLSN4DWRDIQ
-
-7.https://youtu.be/8fiUnF1kvlI
+https://www.youtube.com/playlist?list=PL4Amtk9f-JswWEii7nhy5K8\_t5BRP4VIO
 

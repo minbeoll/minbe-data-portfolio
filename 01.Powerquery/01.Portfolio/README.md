@@ -116,5 +116,3 @@ Merge + Anti Join 로직
 
 3.RPT\_01\_Monthly\_Summary - https://youtu.be/mlat-i81Wps
 
-
-

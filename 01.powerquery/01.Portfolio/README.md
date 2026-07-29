@@ -110,5 +110,11 @@ Merge + Anti Join 로직
 
 \## Demo Video
 
-https://www.youtube.com/playlist?list=PL4Amtk9f-JswWEii7nhy5K8\_t5BRP4VIO
+1.PQ\_Folder\_Combine\_Template - https://youtu.be/qvYNIsT5\_JM
+
+2.Sales\_mapping\_automation - https://youtu.be/ZzTtEUgWWfk
+
+3.RPT\_01\_Monthly\_Summary - https://youtu.be/mlat-i81Wps
+
+
 

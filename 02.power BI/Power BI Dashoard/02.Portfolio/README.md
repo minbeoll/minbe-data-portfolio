@@ -1,6 +1,6 @@
 portfolio2
 
-demo video-https://youtu.be/yNuDU3V3eFw
+demo video-https://youtu.be/rl3eg90eHwo
 
    This dashboard aims to help management and operational staff quickly comprehend the current business situation and provide key insights needed to make decisions for the future by connecting revenue growth, customer structure, and target achievement into a single flow.
 

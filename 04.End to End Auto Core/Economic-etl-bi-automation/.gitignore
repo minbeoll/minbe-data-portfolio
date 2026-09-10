@@ -1,0 +1,16 @@
+﻿# secrets
+config/config.yaml
+
+# local outputs
+logs/
+1_data_raw/
+6_reporting/outputs/
+
+# power bi
+*.pbix
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env

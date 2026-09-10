@@ -7,7 +7,7 @@ logs/
 6_reporting/outputs/
 
 # power bi
-*.pbix
+
 
 # python
 __pycache__/

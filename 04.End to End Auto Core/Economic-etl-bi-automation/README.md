@@ -1,4 +1,7 @@
-﻿# Global Economic Monitoring & BI Automation System
+﻿Videolink - https://youtu.be/9SMHp9CUOfM
+
+
+# Global Economic Monitoring & BI Automation System
 
 An end-to-end data automation and Business Intelligence project that
 collects global economic data from the World Bank API, processes it through

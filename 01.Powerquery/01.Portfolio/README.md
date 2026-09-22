@@ -110,9 +110,7 @@ Merge + Anti Join 로직
 
 \## Demo Video
 
-1.PQ\_Folder\_Combine\_Template - https://youtu.be/qvYNIsT5\_JM
+Powerquery portfolio
 
-2.Sales\_mapping\_automation - https://youtu.be/ZzTtEUgWWfk
-
-3.RPT\_01\_Monthly\_Summary - https://youtu.be/mlat-i81Wps
+https://www.youtube.com/watch?v=33z\_1VRjugg\&list=PLCi03F1UNLrY
 

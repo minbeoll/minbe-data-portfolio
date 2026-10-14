@@ -11,6 +11,20 @@ This repository contains real-world portfolio projects covering:
 
 All projects are designed for freelance and real business scenarios, focusing on automation, scalability, and clean architecture.
 
+## ⚠️ Important: Data Source Configuration
+
+To run the Power Query, Power BI, or End-to-End Automation projects with the provided input datasets, please update the data source paths to match your local computer environment.
+
+The original file paths were configured on the developer's computer and may differ from yours.
+
+- **Power Query:** Update the source file or folder paths in Power Query Editor.
+- **Power BI:** Go to Transform Data → Data Source Settings → Change Source to update the file paths.
+- **End-to-End Automation:** Update the input/output directory paths and any required database connection settings in the configuration files.
+
+After updating the paths, refresh the data to explore the complete ETL process, data models, DAX measures, and interactive dashboards.
+
+**Note:** Power BI Desktop is required to open `.pbix` files.
+
 ---
 
 # 민별의 데이터 포트폴리오

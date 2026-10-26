@@ -40,3 +40,9 @@ Python, MySQL, Power Query, Power BI를 활용한 엔드투엔드 데이터 자�
 
 실제 프리랜서 및 실무 환경을 기준으로 자동화, 확장성, 구조 설계를 중심으로 제작되었습니다.
 
+Korean blog : https://blog.naver.com/minbe-data
+
+English blog : https://minbe-data.tistory.com
+
+Japanese blog : https://minbe-data.hatenablog.com
+
